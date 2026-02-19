@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/flash_test_app.dir/src/main.cpp.o -o flash_test_app  -Wl,-rpath,/home/octo/Github/Flash/build libflash.so -lpthread 
