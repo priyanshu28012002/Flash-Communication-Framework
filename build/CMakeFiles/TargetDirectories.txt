@@ -1,0 +1,4 @@
+/home/octo/Github/Flash/build/CMakeFiles/flash.dir
+/home/octo/Github/Flash/build/CMakeFiles/flash_test_app.dir
+/home/octo/Github/Flash/build/CMakeFiles/edit_cache.dir
+/home/octo/Github/Flash/build/CMakeFiles/rebuild_cache.dir

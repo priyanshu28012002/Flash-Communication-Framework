@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/flash_app.dir/src/main.cpp.o CMakeFiles/flash_app.dir/src/flash.cpp.o -o flash_app  -lpthread 
